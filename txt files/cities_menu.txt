@@ -1,0 +1,10 @@
+Shanghai,14608512,31.005,121.4086111,Images/Shanghai.jpg
+New York,8107916,40.7141667,-74.0063889,Images/New York.jpg
+London,7421228,51.5002,-0.1262,Images/London.jpg
+Rio De Janeiro,6023742,-22.9,-43.233333,Images/Rio De Janeiro.jpg
+Rome,2643736,41.9,12.483333,Images/Rome.jpg
+Dubai,1137376,25.2522222,55.28,Images/Dubai.jpg
+Toronto,4612187,43.666667,-79.416667,Images/Toronto.jpg
+Istanbul,9797536,41.018611,28.964722,Images/Istanbul.jpg
+Mexico,8720916,19.434167,-99.138611,Images/Mexico City.jpg
+Kuala Lumpur,1453978,3.1666667,101.7,Images/Kuala.jpg
